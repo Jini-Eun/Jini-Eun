@@ -2,8 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Jini-Eun?style=social)
 
 ### 👋 Hello My name is Jin
-My major is Software Science(Computer Science and Engineering). <br>
-I have project experience using React & Python, Java & Android. <br>
+My major is Software Science(Computer Science and Engineering). I have project experience using React & Python, Java & Android.
 I am interested in Web programming. <br>
 
 [![Jini's github stats](https://github-readme-stats.vercel.app/api?username=Jini-Eun&show_icons=true&theme=dracula)](https://github.com/Jini-Eun/github-readme-stats)
