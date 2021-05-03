@@ -1,14 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJini-Eun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/JiniEun?style=social)
 
-### 👋 Hello My name is Jin
-My major is Software Science(Computer Science and Engineering). I have project experience using React & Python, Java & Android. <br>
-I am interested in Web programming. <br>
+### 👋 Hello My name is EunJin Kim
 
 [![Jini's github stats](https://github-readme-stats.vercel.app/api?username=JiniEun&show_icons=true&theme=dracula)](https://github.com/JiniEun/github-readme-stats)
 
 
-### Stack
+### 🌱 Stack
 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=white&style=flat-square&logoHeight=50)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&logoHeight=50)
