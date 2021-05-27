@@ -10,12 +10,11 @@
 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=white&style=flat-square&logoHeight=50)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square&logoHeight=50)
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square&logoHeight=50)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square&logoHeight=50)
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white&style=flat-square&logoHeight=50)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat-square&logoHeight=50)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat-square&logoHeight=50)
-
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square&logoHeight=50)
 
 ### 📬 Contacts
 
