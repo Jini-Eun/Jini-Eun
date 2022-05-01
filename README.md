@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/JiniEun?style=social)
 
 ### 👋 Hello My name is EunJin Kim :relaxed: :smiling_face_with_three_hearts:
-Java Backend Developer
+Java Web Backend Developer
 
 [![Jini's github stats](https://github-readme-stats.vercel.app/api?username=JiniEun&show_icons=true&theme=dracula)](https://github.com/JiniEun/)
 
