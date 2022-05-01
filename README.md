@@ -3,7 +3,10 @@
 
 ### 👋 Hello My name is EunJin Kim :relaxed: :smiling_face_with_three_hearts:
 
-[![Jini's github stats](https://github-readme-stats.vercel.app/api?username=JiniEun&show_icons=true&theme=dracula)](https://github.com/JiniEun/)<br/>
+[![Jini's github stats](https://github-readme-stats.vercel.app/api?username=JiniEun&show_icons=true&theme=dracula)](https://github.com/JiniEun/)
+
+<br/>
+
 ![Jini's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JiniEun&show_icons=true&theme=dracula&layout=compact)
 
 ### 🌱 Stack
