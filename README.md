@@ -28,6 +28,8 @@ Java Web Backend Developer
 
 <br/><br/>
 
+### 💻 Github Stats
+
 [![Jini's github stats](https://github-readme-stats.vercel.app/api?username=JiniEun&show_icons=true&theme=dracula)](https://github.com/JiniEun/)
 
 <br/>
